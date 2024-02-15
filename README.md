@@ -1,1 +1,1 @@
-# credit-risk-classification
+# Credit Risk Supervised Learning Challenge
